@@ -1,0 +1,43 @@
+package com.example.sequencelab.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+// Light: warm white, deep charcoal, soft gray, muted teal.
+val LightBackground = Color(0xFFFAF8F5)
+val LightSurfaceLowest = Color(0xFFFFFFFF)
+val LightSurfaceLow = Color(0xFFF5F2EE)
+val LightSurfaceContainer = Color(0xFFF0EDE8)
+val LightSurfaceHigh = Color(0xFFEAE6E0)
+val LightSurfaceHighest = Color(0xFFE4E0D9)
+val LightOnSurface = Color(0xFF1E2124)
+val LightOnSurfaceVariant = Color(0xFF5C6166)
+val LightOutline = Color(0xFF8C9095)
+val LightOutlineVariant = Color(0xFFD6D2CB)
+val LightPrimary = Color(0xFF2E6B70)
+val LightOnPrimary = Color(0xFFFFFFFF)
+val LightPrimaryContainer = Color(0xFFD3E8E7)
+val LightOnPrimaryContainer = Color(0xFF0D3A3D)
+val LightSecondary = Color(0xFF4F6275)
+val LightSecondaryContainer = Color(0xFFDDE5EE)
+val LightOnSecondaryContainer = Color(0xFF1A2B3A)
+val LightError = Color(0xFFB3261E)
+
+// Dark: near-black, graphite, soft white, muted cyan.
+val DarkBackground = Color(0xFF0E1012)
+val DarkSurfaceLowest = Color(0xFF0A0B0D)
+val DarkSurfaceLow = Color(0xFF15181A)
+val DarkSurfaceContainer = Color(0xFF1A1D20)
+val DarkSurfaceHigh = Color(0xFF212528)
+val DarkSurfaceHighest = Color(0xFF2A2E32)
+val DarkOnSurface = Color(0xFFE6E4E1)
+val DarkOnSurfaceVariant = Color(0xFFA4A9AE)
+val DarkOutline = Color(0xFF6E7378)
+val DarkOutlineVariant = Color(0xFF34393D)
+val DarkPrimary = Color(0xFF86C9CB)
+val DarkOnPrimary = Color(0xFF00363A)
+val DarkPrimaryContainer = Color(0xFF1C4A4D)
+val DarkOnPrimaryContainer = Color(0xFFC2E9EA)
+val DarkSecondary = Color(0xFFAFC4D8)
+val DarkSecondaryContainer = Color(0xFF2E3D4B)
+val DarkOnSecondaryContainer = Color(0xFFD6E3F0)
+val DarkError = Color(0xFFF2B8B5)
